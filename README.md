@@ -1,6 +1,5 @@
 # Hello, All! 🌟
 
-<img align="right" src="https://komarev.com/ghpvc/?username=MO7AMED3TWAN" alt="Profile Views" />
 
 **Results-driven Mechanical Engineer and Data Science enthusiast** with hands-on experience in **mechanical system optimization, machine learning and data analysis.** Skilled at transforming data into actionable insights bringing a unique blend of **engineering expertise** and **data-driven** problem-solving to deliver innovative solutions. Known for my **leadership** and **technical proficiency.** I am committed to driving efficiency and innovation in multidisciplinary environments.
 
