@@ -30,7 +30,7 @@ Here are some technologies I enjoy working with:
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sql/sql-icon.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
 </p>
@@ -39,16 +39,8 @@ Here are some technologies I enjoy working with:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="MATLAB" width="40" height="40"/>
 </p>
 
-## GitHub Status
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MO7AMED3TWAN" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MO7AMED3TWAN&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MO7AMED3TWAN&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
