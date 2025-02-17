@@ -8,6 +8,8 @@ Currently, as a participant in the **IBM AI & Data Science Scholarship.** I am g
 
 **Aspiring** to leverage my dual expertise in **mechanical engineering** and **data science** to contribute to impactful projects and empower communities through technology. Let’s connect to drive innovative solutions and technological advancements!
 
+**Let's connect and explore how we can work together to drive engineering excellence!**
+
 ## About Me
 - 💼 **Mechanical Engineer** with expertise in **SolidWorks, AutoCAD, MATLAB,** and system optimization.
 - 💼 **Data Science Enthusiast** skilled in **Python, SQL, and machine learning libraries** like Scikit learn and PyTorch.
