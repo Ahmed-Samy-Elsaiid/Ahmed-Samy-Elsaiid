@@ -33,8 +33,12 @@ Here are some technologies I enjoy working with:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="MATLAB" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://usoftly.ir/wp-content/uploads/2022/02/Engineering-Equation-Solver-%E2%80%93-EES-Pro-10.561.png" alt="EES" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=512&id=62397&format=png" alt="SOLIDWORKS" width="40" height="40"/>
+  <img src="https://www.softexia.com/wp-content/uploads/2024/01/Autodesk-AutoCAD-logo.png" alt="AutoCAD" width="40" height="40"/>
 </p>
 
 ## Languages
@@ -43,6 +47,7 @@ Here are some technologies I enjoy working with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="MATLAB" width="40" height="40"/>
+  <img src="https://usoftly.ir/wp-content/uploads/2022/02/Engineering-Equation-Solver-%E2%80%93-EES-Pro-10.561.png" alt="EES" width="40" height="40"/>
 </p>
 
 
