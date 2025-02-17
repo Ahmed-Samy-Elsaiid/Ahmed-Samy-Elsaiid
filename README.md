@@ -13,7 +13,7 @@ Currently, as a participant in the **IBM AI & Data Science Scholarship.** I am g
 - 💼 **Mechanical Engineer** with expertise in **SolidWorks, AutoCAD, MATLAB,** and system optimization.
 - 💼 **Data Science Enthusiast** skilled in **Python, SQL, and machine learning libraries** like Scikit learn and PyTorch.
 - 🎓 Pursuing a degree in **Mechanical Engineering** at Alexandria University with a **CGPA of 3.73.**
-- 🌐 Explore my [Portfolio](https://github.com/Ahmed-Samy-Elsaiid?tab=repositories) to see my work.
+- 🌐 Explore my [Portfolio](https://drive.google.com/file/d/1OdvlfokWUmPiQxgqyS_1ZrkSIb1qyDHx/view?usp=drive_link) to see my work.
 - 📄 Check out my [Mechanical Engineering CV](https://drive.google.com/file/d/1wNUsHXU5zp9WDFHzxyZxpo776UF9a-cK/view?usp=drive_link).
 - 📄 Check out my [Data science CV](https://drive.google.com/file/d/1BHKUFWoUWp63Qm7qRfifA7ZnGKKDtFxX/view?usp=drive_link).
 
